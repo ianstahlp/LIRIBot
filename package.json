@@ -1,0 +1,25 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "UCLA Coding Bootcamp Homework",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianstahlp/LIRIBot.git"
+  },
+  "keywords": [
+    "LIRI"
+  ],
+  "author": "Ian Stahl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianstahlp/LIRIBot/issues"
+  },
+  "homepage": "https://github.com/ianstahlp/LIRIBot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  }
+}
